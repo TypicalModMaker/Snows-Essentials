@@ -1,0 +1,8 @@
+name: SnowEssentials
+main: me.isnow.Essentials.Main
+version: 1.0
+author: Isnow
+
+commands:
+  gamemode:
+    aliases: [gm]
